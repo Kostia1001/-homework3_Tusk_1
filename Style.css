@@ -1,0 +1,32 @@
+/*Header*/
+.panel{
+background-color:#A52A2A;
+}
+.title{
+    text-align: center;
+    color: white;
+}
+
+/* Main */
+.photo1{
+    width: 99vw;
+    height: 300px;
+}
+
+.collection{
+    display:flex;
+    justify-content:center;
+}
+.car_photo{
+    border-style: dotted;
+    margin: 5px;
+}
+.panel2{ 
+    background-color: black;
+    
+}
+
+.title2{
+    text-align:center;
+    color:white;
+}
